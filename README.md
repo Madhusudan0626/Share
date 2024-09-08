@@ -1,6 +1,5 @@
 ### 1. **Repository Structure**
 
-```
 Wine-Quality-Prediction/
 │
 ├── README.md
@@ -8,7 +7,6 @@ Wine-Quality-Prediction/
 ├── pairplot.png
 ├── heatmap.png
 └── accuracy_plot.png
-```
 
 ### 2. **`ReadMe.md`**
 
