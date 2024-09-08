@@ -12,7 +12,6 @@ Wine-Quality-Prediction/
 
 ### 2. **`ReadMe.md`**
 
-```
 # Wine Quality Prediction and Visualization
 
 This project analyzes the Wine Quality dataset using various data visualization techniques like Seaborn plots and heatmaps. It also explores how the number of trees in a Random Forest model affects prediction accuracy.
@@ -59,7 +58,7 @@ To explore the visualizations and experiment with the Random Forest model:
 ## Conclusion
 
 This project highlights the power of data visualization in understanding the relationships between features in the dataset. It also demonstrates how model tuning (number of trees in a Random Forest) can improve prediction accuracy.
-```
+
 
 ### 4. **Notebook and Images**
 
