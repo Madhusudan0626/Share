@@ -62,12 +62,12 @@ To explore the visualizations and experiment with the Random Forest model:
 This project highlights the power of data visualization in understanding the relationships between features in the dataset. It also demonstrates how model tuning (number of trees in a Random Forest) can improve prediction accuracy.
 
 
-### 4. **Notebook and Images**
+### 3. **Notebook and Images**
 
 - Ensure your `wineQuality.ipynb` notebook includes the code for data analysis, visualizations, and Random Forest model evaluation.
 - Save the images for the pairplot, heatmap, and accuracy vs number of trees as described in the previous step.
 
-### 5. **Push to GitHub**
+### 4. **Push to GitHub**
 
 1. Create a new repository on GitHub.
 2. Clone the repository to your local machine.
