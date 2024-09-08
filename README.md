@@ -36,7 +36,9 @@ This project analyzes the Wine Quality dataset using various data visualization 
 This project includes the following visualizations:
 
 ### Pairplot
-![Pairplot](./WineQuality/pairplot1.png)(./WineQuality/pairplot2.png)(./WineQuality/pairplot3.png)
+![Pairplot](./WineQuality/pairplot1.png)
+![Pairplot](./WineQuality/pairplot2.png)
+![Pairplot](./WineQuality/pairplot3.png)
 
 ### Heatmap
 ![Heatmap](./WineQuality/heatmap.png)
@@ -72,7 +74,7 @@ This project highlights the power of data visualization in understanding the rel
 3. Add all the files:
 
    ```
-   git add README.md wineQuality.ipynb pairplot.png heatmap.png accuracy_plot.png requirements.txt
+   git add README.md wineQuality.ipynb pairplot1.png pairplot2.png pairplot3.png heatmap.png accuracy_of_prediction.png
    git commit -m "Initial commit with project files"
    git push origin main
    ```
